@@ -1,3 +1,3 @@
 # Advent of Code 2024
 
-**Stars:** 3
+**Stars**: 4
